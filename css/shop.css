@@ -1,0 +1,52 @@
+h6{s
+	color: rgb();
+	border: 1px dotted black;
+	border-width: 25px; 
+}
+.thumbnail > img{
+	display: block;
+	max-width: 250px;
+	height: 250px;
+}
+.btnsizes{
+	border-width: 5px;
+	border-radius: 100%;
+	margin: 2px;
+	width: 32px;
+	font-size: 11px;
+}
+.box{
+	border: none;
+}
+a{
+	font-weight: bolder;
+}
+h4{
+	font-weight: bolder;
+}
+.p1{
+	color: silver;
+}
+.glyphicon{
+	margin-right: 5px;
+
+}
+.btnstars{
+	margin-left: 5px;
+}
+.amount{
+	font-size: 30px;
+}
+.amount2{
+	color: silver;
+	/*margin-top:0px;
+}
+/*.primary{
+	style="background-color: black;
+	width: 32vh;
+	height: 6vh;
+	font-size: 18px;
+	padding: 22px;
+	padding-bottom: 10px;
+	color: silver;
+}*/*/
